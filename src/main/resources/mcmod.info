@@ -1,0 +1,16 @@
+[
+{
+  "modid": "prismcore",
+  "name": "Prism Core",
+  "description": "Core Mod created and developed by: MagneticPrism",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "https://github.com/DotPrism/Prism-Core",
+  "updateUrl": "",
+  "authorList": ["MagneticPrism"],
+  "credits": "MagneticPrism",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

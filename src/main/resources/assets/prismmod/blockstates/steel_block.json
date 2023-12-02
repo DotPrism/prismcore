@@ -1,0 +1,9 @@
+{
+    "variants":
+    {
+        "normal":
+        {
+            "model": "prismmod:steel_block"
+        }
+    }
+}
